@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>435773E6-CDDC-42C8-B598-2B8BFC34DC0D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SQLiteLearn1</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C0C6BC92CC8FBE14EA9DBCD54FA5C8D7BD3C7BBA</key>
+		<string>https://github.com/xiaoc86/SQLite3Learn.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SQLiteLearn1/SQLiteLearn1.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C0C6BC92CC8FBE14EA9DBCD54FA5C8D7BD3C7BBA</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/xiaoc86/SQLite3Learn.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C0C6BC92CC8FBE14EA9DBCD54FA5C8D7BD3C7BBA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C0C6BC92CC8FBE14EA9DBCD54FA5C8D7BD3C7BBA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SQLite3Learn</string>
+		</dict>
+	</array>
+</dict>
+</plist>
